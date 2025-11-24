@@ -1,1 +1,3 @@
-print('hello')
+void main(){
+  print("hello");
+}
